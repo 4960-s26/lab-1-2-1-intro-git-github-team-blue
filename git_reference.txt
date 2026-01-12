@@ -1,0 +1,14 @@
+git status # Check any changes
+git add <file> # Stage changes
+git commit -m "message" # Commit changes
+
+git push # push changes
+git pull # pull changes
+git merge <branch> # merge branch
+git log # See your commit history
+
+nano filename.filetype # Create a file
+mkdir # To make a directory
+rm filename # Deletes a file
+cd directoryname # Changes directory
+echo "filename" # Quickly create a file
