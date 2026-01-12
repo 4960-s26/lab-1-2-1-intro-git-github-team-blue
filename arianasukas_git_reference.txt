@@ -1,0 +1,2 @@
+i completed the 7 required levels.
+Commands learned: commit, branch, merge, fetch, pull, fakeTeamwork, push.
